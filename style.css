@@ -1,0 +1,24 @@
+.glow
+{
+  button
+  {
+margin:0px 350px 0px;
+  }
+}
+
+.block
+{
+background-color: white;
+color: inherit;
+left: 0;
+position: none;
+}
+
+.read
+{
+background-color: inherit;
+font-size: 18 px;
+text-align: left;
+border: 1px;
+position:sticky;
+}
