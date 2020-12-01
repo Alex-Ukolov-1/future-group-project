@@ -1,15 +1,4 @@
 <?php
-class ADD
-{
-public $name;
-public $winner;
-
-public function __construct($name,$age)
- {
- $this->$name=$_POST['play'];
- $this->$winner=$_POST['message'];
- }
-}
 
 $servername="localhost";
 $username="root";
